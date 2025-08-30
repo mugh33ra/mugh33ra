@@ -76,7 +76,7 @@
   <a href="https://bugcrowd.com/mugh33ra" target="_blank">
     <img src="https://img.shields.io/badge/Bugcrowd-@mugh33ra-orange?style=for-the-badge&logo=bugcrowd" alt="Bugcrowd Badge" />
   </a>
-  <a href="https://www.linkedin.com/in/ahmad-mugheera" target="_blank">
+  <a href="https://www.linkedin.com/in/ahmadmugheera" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Ahmad%20Mugheera-0077b5?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" />
   </a>
 </div>
